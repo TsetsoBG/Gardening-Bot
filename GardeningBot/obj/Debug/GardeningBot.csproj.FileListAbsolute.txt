@@ -1,0 +1,6 @@
+c:\users\tsetso\documents\visual studio 2015\Projects\GardeningBot\GardeningBot\bin\Debug\GardeningBot.exe.config
+c:\users\tsetso\documents\visual studio 2015\Projects\GardeningBot\GardeningBot\bin\Debug\GardeningBot.exe
+c:\users\tsetso\documents\visual studio 2015\Projects\GardeningBot\GardeningBot\bin\Debug\GardeningBot.pdb
+c:\users\tsetso\documents\visual studio 2015\Projects\GardeningBot\GardeningBot\obj\Debug\GardeningBot.csprojResolveAssemblyReference.cache
+c:\users\tsetso\documents\visual studio 2015\Projects\GardeningBot\GardeningBot\obj\Debug\GardeningBot.exe
+c:\users\tsetso\documents\visual studio 2015\Projects\GardeningBot\GardeningBot\obj\Debug\GardeningBot.pdb
